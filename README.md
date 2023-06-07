@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Phandeker
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning at school
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Phandeker in Telegram
 
 <!---
